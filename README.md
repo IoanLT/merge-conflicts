@@ -1,2 +1,2 @@
-# merge-conflicts
+# REMOTE
 Adding a line of text
