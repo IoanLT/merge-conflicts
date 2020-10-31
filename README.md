@@ -1,2 +1,2 @@
-# merge-conflicts
+# LOCAL
 Adding a line of text
